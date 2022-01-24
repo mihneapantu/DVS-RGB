@@ -1,2 +1,8 @@
 Scriem cand ne apucam de lucru si cand terminam ora si data si o scurta descriere a ce am facut.
 Am creat GitHub 14:50 20.01.2022
+
+Mihnea: 24/1/2022 10:35 
+Am folosit SVD pe culori, bagi ca input numele pozei si algorimtul scris iti realizeaza o scala cu 
+buton interactiv din care alegi cate valori singulare folosesti ca sa reconstruiesti imaginea.
+Pe langa asta, iti zice si cat la suta din imagine s-a recuperat.
+Putem extinde.
